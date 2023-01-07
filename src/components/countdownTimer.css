@@ -31,7 +31,7 @@ body{
   border: 2px solid black;
   height:50vh;
   margin-top:15vh;
-  display: inline-block;
+
 }
 
 h1{
@@ -41,7 +41,7 @@ h1{
 
 .picker{
   margin-top:10%;
-  text-align: center;
+  text-align: center
 }
 .button{
   outline: none !important;
